@@ -1,0 +1,10 @@
+org/casadocodigo/loja/controllers/HomeController.class
+org/casadocodigo/loja/models/IEntity.class
+org/casadocodigo/loja/models/Produto.class
+org/casadocodigo/loja/controllers/ProdutosController.class
+org/casadocodigo/loja/conf/JPAConfiguration.class
+org/casadocodigo/loja/daos/SpringJPADAO.class
+org/casadocodigo/loja/conf/ServletSpringMVC.class
+org/casadocodigo/loja/daos/ProdutoDAO.class
+org/casadocodigo/loja/conf/AppWebConfiguration.class
+org/casadocodigo/loja/daos/DAO.class
