@@ -3,7 +3,6 @@
 	<name>casadocodigo</name>
 	<comment></comment>
 	<projects>
-		<project>utilElohim</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
